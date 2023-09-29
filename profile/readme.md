@@ -1,6 +1,6 @@
 ## Welcome to ds4owd-001 👋
 
-This is the GitHub Organisation for a course, offered by the openwashdata academy. We will spend a lot of our time together here. 
+This is the GitHub Organisation for a course, offered by the [openwashdata academy](https://openwashdata.org/pages/academy/). We will spend a lot of our time together here. 
 
 ***
 To sign-up for this course, visit course website here: <https://ds4owd-001.github.io/website/> 
